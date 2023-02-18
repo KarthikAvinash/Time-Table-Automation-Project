@@ -1,5 +1,5 @@
 # Time-Table-Automation-Project
-Time Table Automation for IIITDWD.
+Automated Time Table Generation!!!
 
 As a student passionate about improving processes, I undertook the challenge of streamlining the scheduling process for IIITDWD students and faculty. 
 
