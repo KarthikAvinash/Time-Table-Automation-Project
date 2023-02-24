@@ -1,0 +1,67 @@
+code,type,name,branch1,semester1,branch2,semester2,branch3,semester3,classroom_code1,classroom_code2,classroom_code3,faculty1,faculty2,faculty3,theory,tutorial,lab,lab_name
+MA101,c,Calculus,CSE,Sem_1_A,NA,NA,NA,NA,C101,NA,NA,Dr.Gokulraj,NA,NA,3,1,0,CS_LAB
+HS204,c,Economics,CSE,Sem_1_A,NA,NA,NA,NA,C101,NA,NA,Dr.Navyashree,NA,NA,3,1,0,CS_LAB
+CS105,c,Problemsolving,CSE,Sem_1_A,NA,NA,NA,NA,C101,NA,NA,Dr.PrabhuPrasad,NA,NA,3,1,2,CS_LAB
+HS103,c,Language,CSE,Sem_1_A,NA,NA,NA,NA,C101,NA,NA,Dr.ChandrikaKamat,NA,NA,2,1,0,CS_LAB
+EG101,c,Eg101,CSE,Sem_1_A,NA,NA,NA,NA,C101,NA,NA,Dr.Radhika,NA,NA,2,1,2,CS_LAB
+MA101,c,Calculus,CSE,Sem_1_B,NA,NA,NA,NA,C102,NA,NA,Dr.Gokulraj,NA,NA,3,1,0,CS_LAB
+HS204,c,Economics,CSE,Sem_1_B,NA,NA,NA,NA,C102,NA,NA,Dr.Navyashree,NA,NA,3,1,0,CS_LAB
+CS105,c,Problemsolving,CSE,Sem_1_B,NA,NA,NA,NA,C102,NA,NA,Dr.Sadhvi,NA,NA,3,1,2,CS_LAB
+HS103,c,Language,CSE,Sem_1_B,NA,NA,NA,NA,C102,NA,NA,Dr.ChandrikaKamat,NA,NA,2,1,0,CS_LAB
+EG101,c,Eg101,CSE,Sem_1_B,NA,NA,NA,NA,C102,NA,NA,Dr.PrabhuPrasad,NA,NA,2,1,2,CS_LAB
+CS206,c,TOC,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.Pavan,NA,NA,3,1,0,CS_LAB
+MA202,c,LA,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.AnandPBarangi,NA,NA,3,1,0,CS_LAB
+CS301,c,SE,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.Uma,NA,NA,3,1,0,CS_LAB
+CS204,c,OS,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.MalayKumar,NA,NA,3,0,2,CS_LAB
+CS310,c,DBMS,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.PramodYelemewad,NA,NA,3,1,2,CS_LAB
+HS205,c,ETHICS,CSE,Sem_4_A,NA,NA,NA,NA,C302,NA,NA,Dr.RajeshNS,NA,NA,3,0,0,CS_LAB
+CS206,c,TOC,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.Pavan,NA,NA,3,1,0,CS_LAB
+MA202,c,LA,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.Lakshman,NA,NA,3,1,0,CS_LAB
+CS301,c,SE,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.Uma,NA,NA,3,1,0,CS_LAB
+CS204,c,OS,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.Radhika,NA,NA,3,0,2,CS_LAB
+CS310,c,DBMS,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.PramodYelemewad,NA,NA,3,1,2,CS_LAB
+HS205,c,ETHICS,CSE,Sem_4_B,NA,NA,NA,NA,C303,NA,NA,Dr.RajeshNS,NA,NA,3,0,0,CS_LAB
+CS307,e,ML,CSE,Sem_7,NA,NA,NA,NA,C204,NA,NA,Dr.DeepakKT,Dr.SunilSaumya,Some1,3,0,0,CS_LAB
+CS307,c,ML,CSE,Sem_7,NA,NA,NA,NA,C204,NA,NA,Dr.DeepakKT,Dr.SunilSaumya,Some1,0,0,2,CS_LAB
+CS356,e,IVCC,CSE,Sem_7,NA,NA,NA,NA,C204,NA,NA,Dr.MalayKumar,Some2,Some3,3,0,0,CS_LAB
+CS364,e,DS,CSE,Sem_7,NA,NA,NA,NA,C204,NA,NA,Dr.Sadhvi,Some4,some5,3,1,0,CS_LAB
+DS351,e,SHT,CSE,Sem_7,NA,NA,NA,NA,C204,NA,NA,Dr.RameshAthe,some6,some7,3,1,0,CS_LAB
+CS462,e,CG,CSE,Sem_7,ECE,Sem_7,NA,NA,C204,C202,NA,Dr.Vivekraj,some8,some9,3,0,0,CS_LAB
+CS462,c,CG,CSE,Sem_7,ECE,Sem_7,NA,NA,C204,C202,NA,Dr.Vivekraj,some8,some9,0,0,2,CS_LAB
+CS455,e,BT,CSE,Sem_7,DSAI,Sem_7,ECE,Sem_7,C204,C203,C202,Dr.RajendraHegadi,some11,some12,3,0,0,CS_LAB
+CS456,e,IB,CSE,Sem_7,ECE,Sem_7,NA,NA,C204,C202,NA,Dr.SunilSaumya,some13,some14,3,1,0,CS_LAB
+EC354,e,CMC,CSE,Sem_7,ECE,Sem_7,NA,NA,C204,C202,NA,Dr.MukeshKumarMisra,some15,some16,3,1,0,CS_LAB
+PH451,e,QML,CSE,Sem_7,DSAI,Sem_7,ECE,Sem_7,C204,C203,C202,Dr.AswathBabu,some17,some18,3,1,0,CS_LAB
+EC358,e,ALAML,CSE,Sem_7,ECE,Sem_7,NA,NA,C204,C202,NA,Dr.SibasankarPadhy,some19,some20,3,1,0,CS_LAB
+CS458,e,NLP,CSE,Sem_7,DSAI,Sem_7,ECE,Sem_7,C204,C203,C202,Dr.NatrajKS,Dr.Chinmayananda,some21,3,1,0,CS_LAB
+EC307,e,wireless,ECE,Sem_7,NA,NA,NA,NA,C202,NA,NA,Dr. Chinmayananda,some41,some42,3,0,0,CS_LAB
+EC307,c,wireless,ECE,Sem_7,NA,NA,NA,NA,C202,NA,NA,Dr. Chinmayananda,some41,some42,0,0,2,CS_LAB
+DS351,e,SHT,ECE,Sem_7,DSAI,Sem_7,NA,NA,C202,C203,NA,Dr.RameshAthe,some43,some44,3,1,0,CS_LAB
+EC353,e,ML,ECE,Sem_7,NA,NA,NA,NA,C202,NA,NA,Dr. Nataraj K S,some45,some46,3,1,0,CS_LAB
+DS301,e,LAIT,DSAI,Sem_7,NA,NA,NA,NA,C201,NA,NA,Dr. SunilSaumya,some47,some48,3,1,0,CS_LAB
+DS302,e,FDA,DSAI,Sem_7,NA,NA,NA,NA,C201,NA,NA,Dr. Utkarsh,some49,some50,2,1,0,CS_LAB
+DS302,e,FDA,DSAI,Sem_7,NA,NA,NA,NA,C201,NA,NA,Dr. Utkarsh,some49,some50,0,0,2,CS_LAB
+DS303,e,IAE,DSAI,Sem_7,NA,NA,NA,NA,C201,NA,NA,Dr. RajendraHegadi,Dr. Manjunath,some51,3,1,0,CS_LAB
+DS304,e,DSP,DSAI,Sem_7,NA,NA,NA,NA,C201,NA,NA,Dr. Hariprasad,Dr.Rajendra,some57,3,1,0,CS_LAB
+MA101,c,Calculus,ECE,Sem_1,NA,NA,NA,NA,C104,NA,NA,Dr. Anand B,NA,NA,3,1,0,CS_LAB
+EC102,c,DD,ECE,Sem_1,NA,NA,NA,NA,C104,NA,NA,Dr. Sibasankar,NA,NA,3,0,2,CS_LAB
+CS103,c,DS,ECE,Sem_1,NA,NA,NA,NA,C104,NA,NA,Dr. Vivekraj,NA,NA,3,1,2,CS_LAB
+PH104,c,Phy,ECE,Sem_1,NA,NA,NA,NA,C104,NA,NA,Dr. Aswath,NA,NA,3,0,2,CS_LAB
+EG102,c,BCT,ECE,Sem_1,NA,NA,NA,NA,C104,NA,NA,Dr. Somen,NA,NA,3,1,0,CS_LAB
+MA208,c,probability,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Dr. Lakshman,NA,NA,3,1,0,CS_LAB
+EC205,c,control sys,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Dr. Jagadish N,NA,NA,3,0,2,CS_LAB
+EC310,c,embeded sys,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Dr. Prakash Pawar,NA,NA,3,1,0,CS_LAB
+EC204,c,analog digi,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Dr. Mukesh Kumar Mishra,Dr. Somen,NA,3,1,2,CS_LAB
+HS204,c,economics,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Ms.Anushree Kini,NA,NA,3,1,0,CS_LAB
+HS205,c,ethics,ECE,Sem_4,NA,NA,NA,NA,C203,NA,NA,Dr. Rajesh N S,NA,NA,3,0,0,CS_LAB
+DS101,c,Math,DSAI,Sem_1,NA,NA,NA,NA,C205,NA,NA,Dr. Rajib Sharma,NA,NA,3,1,0,CS_LAB
+DS102,c,finance,DSAI,Sem_1,NA,NA,NA,NA,C205,NA,NA,Mrs. Anushree Kini,NA,NA,3,1,0,CS_LAB
+DS103/DS105,c,cs,DSAI,Sem_1,NA,NA,NA,NA,C205,NA,NA,Dr. Manjunath,NA,NA,3,1,2,CS_LAB
+DS104,c,dsai,DSAI,Sem_1,NA,NA,NA,NA,C205,NA,NA,Dr. Rajib Sharma,NA,NA,3,1,0,CS_LAB
+HS101,c,lang,DSAI,Sem_1,NA,NA,NA,NA,C205,NA,NA,Dr. Chandrika Kamat,NA,NA,2,1,0,CS_LAB
+MA202,c,LA,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Hariprasad,NA,NA,3,1,0,CS_LAB
+EC219,c,ITST,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Jagadeesh Bhat,NA,NA,3,1,0,CS_LAB
+DS202,c,OSCC,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Animesh,NA,NA,3,0,2,CS_LAB
+DS203,c,SES,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Manjunath,NA,NA,3,1,0,CS_LAB
+CS310,c,DBMS,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Utkarsh,NA,NA,3,1,2,CS_LAB
+DS209,c,GBP,DSAI,Sem_4,NA,NA,NA,NA,C305,NA,NA,Dr. Rajendra Hegadi,NA,NA,3,0,0,CS_LAB
